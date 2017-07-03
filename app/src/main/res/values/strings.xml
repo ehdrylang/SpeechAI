@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">카뮤니케이션</string>
+    <string name="action_settings">설정</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">말씀하세요!</string>
+    <string name="speech_not_supported">음성인식을 지원하지 않습니다.</string>
+    <string name="tap_on_mic">음성인식하기</string>
+</resources>
